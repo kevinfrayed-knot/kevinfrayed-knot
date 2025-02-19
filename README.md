@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on websites and apps and such.
 - 📫 How to reach me you can email me at kevin@frayed-knot.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm also a dj and I play house disco and some techno:)
+- ⚡ Fun fact: I'm also a dj and I play house, disco and some techno:)
 
 <!---
 kevinfrayed-knot/kevinfrayed-knot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
